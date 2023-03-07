@@ -17,4 +17,8 @@ Tasks:
   * Trees which will reset whenever the player picks the "sleep" script.
   * Animals that the player can interact and harvest
   * 
-- Build Panel
+- A pop up panel that appears if the player interacts with the farm. The panel will have three buttons 
+ * Build button
+ * Exit button
+ * Sleep button
+
